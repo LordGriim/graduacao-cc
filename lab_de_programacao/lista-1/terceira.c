@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ * 3 - Ler um número real representando um tempo em minutos e mostrá-lo no formato: 
+ * h horas, m minutos e s segundos, com h, m e s inteiros.  
+ */
 int main(void) {
 
 	int m;

@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/*
+ * 1 - Ler um número natural de dois algarismos e informar os algarismos das unidades e das dezenas em
+ * separado. Mostrar também o valor ao quadrado do novo número formado pela inversão dos algarismos
+ * das unidades e dezenas do número dado
+ */
 int main(void) {
 	int n;
 	scanf("%d", &n);
