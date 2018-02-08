@@ -8,6 +8,6 @@
 int main(void) {
 	float l1, l2, l3;
 	scanf("%f %f %f", &l1, &l2, &l3); // le os numeros
-	printf("%d\n", ((l1 >= (l2 + l3)) && (l2 >= (l3 + l1)) && (l3 >= (l1 + l2))) ? 0 : 1); // determina se da pra formar um triangulo
+	printf("%d\n", ((l1 < (l2 + l3)) && (l2 < (l3 + l1)) && (l3 < (l1 + l2))) ? 1 : 0); // determina se da pra formar um triangulo
 	return 0;
 }
