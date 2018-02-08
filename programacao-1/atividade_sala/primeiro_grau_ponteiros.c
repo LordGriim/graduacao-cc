@@ -2,7 +2,7 @@
 
 void primeiro_grau(int x, int *fx, int *gx) {
 	*fx = (2 * x) + 7;
-	*gx = (9 * x) + 7;
+	*gx = (9 * x) + 13;
 }
 
 int main(void) {
