@@ -1,5 +1,8 @@
 # pontuação:
-  - 35 de 40
+  - 40 de 40
+
+# questões
+  - 33 de 33
 
 # nivel 1
   - (x) 31 - Quantos minutos se passaram
@@ -35,9 +38,9 @@
   - (x) 657 - Divisão da Nlogônia
   - (x) 300 - festival de balões
   - (x) 135 - Guarda costeira
-  - ( ) 61 - Dama
-  - ( ) 853 - Desenhando Retângulos
+  - (x) 61 - Dama
+  - (x) 853 - Desenhando Retângulos
 
 # nivel 4
   - (x) 341 - Preço dos Jogos
-  - ( ) 423 - Jogo do Bicho
+  - (x) 423 - Jogo do Bicho
