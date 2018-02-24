@@ -1,0 +1,19 @@
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Proclamação da república</title>
+	<script>
+		function checa() {
+			var a = document.forms[0].nome.value;
+			alert("Você digitou: " + a + "\nA respota esperada é: Marechal Deodoro")
+		}
+	</script>
+</head>
+<body>
+	<form>
+		<p><label>Digite o nome do proclamador da républica</label><br></p>
+		<p><input type="text" name="nome"/></p>
+		<input type="button" value="Clique aqui" onclick="checa()">
+	</form>
+</body>
+</html>
