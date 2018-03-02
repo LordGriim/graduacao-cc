@@ -10,11 +10,19 @@
 | 18:00 |  IC     |  P1   |   IC   | P1     | ----- |
 
 Tempo de aula: 50 min
+
 P1   -> programação 1
+
 IWEB -> Internet e WEB
+
 GA   -> Geometria Analítica
+
 IC   -> Introdução a Computação
+
 LAB  -> Laboratório de Programação
+
 FM   -> Fundamentos da Matemática
+
 IT1  -> Intervalo 1
+
 IT2  -> Intervalo 2
