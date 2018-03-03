@@ -22,4 +22,11 @@ Em casos de alta intensidade os problemas tornam-se de proporções alarmantes a
 
 ### Hardware
 
-A arquitetura do hardware do EstGeoMag é dividida em duas unidades, a primeira é responsável por coletar os dados e isso é feito através de sensores, já a segunda tem função de processar os dados que foram coletados 
+A arquitetura do hardware do EstGeoMag é dividida em duas unidades, a primeira é responsável por coletar os dados e isso é feito através de sensores, já a segunda tem função de processar os dados que foram coletados.
+
+Para o funcionamento do EstGeoMag são necessários três sensores que acompanham as variações do campo magnético terrestre nos eixos Norte-Sul, Leste-Oeste e Vertical, as variações associam um sinal eletrico gerado nos sensores que é proporcional ao campo medido.
+
+### Software
+
+A parte do software é dividida em um sistema operacional Linux, um banco de dados escrito em SQL para salvar os dados coletados pelos sensores, um programa escrito em Python para fazer o processamento dos dados recebidos e um servidor web para divulgação dos resultados, além disso, ainda é possivel uma reprogramação de todo o sistema para que sejam exibidos os resultados de maneira mais dinâmica encurtando o intervalo das medições, deixando assim, estas mais verossimias, contudo, pelo intervalo reduzido entre as medições abre a possibilidade de leituras sem uma real variação.
+

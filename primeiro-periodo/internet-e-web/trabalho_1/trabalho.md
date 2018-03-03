@@ -21,7 +21,7 @@
 
 > Gerando, assim, a seguinte tela de saida: 
 
-![imagem_projeto_1](imagens/projeto_1.png)
+![imagem_projeto_1](https://github.com/BarbosaJackson/graduacao-cc/blob/master/primeiro-periodo/internet-e-web/trabalho_1/imagens/projeto_1.png)
 
 # Projeto 2
 
