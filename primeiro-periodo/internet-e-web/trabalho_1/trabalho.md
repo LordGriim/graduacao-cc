@@ -21,7 +21,7 @@
 
 > Gerando, assim, a seguinte tela de saida: 
 
-[!imagem_projeto_1]
+![imagem_projeto_1](imagens/projeto_1.png)
 
 # Projeto 2
 
@@ -62,8 +62,8 @@ agenda.html
 
 > Gerando assim, as páginas:
 
-[!imagem_do_index]
-[!imagem_da_agenda]
+![imagem_do_index](imagens/projeto_2_index.png)
+![imagem_da_agenda](imagens/projeto_2_agenda.png)
 
 # Projeto 3
 
@@ -93,11 +93,15 @@ agenda.html
 
 > Gerando a seguinte página
 
-[!Imagem_da_pagina_com_prompt]
+![projeto_3_index](imagens/projeto_3_index.png)
 
-> Após o usuário digitar e teclar enter temos: 
+> Ao clicar no botão, aparece um prompt onde o usuário digita o nome
 
-[!imagem_da_pagina_com_alert_projeto_3]
+![Projeto_3_botao_clicado](imagens/projeto_3_index_botao_clicado.png)
+
+> Após o usuário digitar e teclar enter temos a seguinte tela com a mensagem: 
+
+![projeto_3_nome_digitado](imagens/projeto_3_index_nome_digitado.png)
 
 # Projeto 4
 
@@ -114,7 +118,7 @@ agenda.html
 	<script>
 		function checa() {
 			var a = document.forms[0].nome.value;
-			alert("Você digitou: " + a + "\nA respota esperada é: Marechal Deodoro")
+			alert("Você digitou: " + a + "\nA resposta esperada é: Marechal Deodoro")
 		}
 	</script>
 </head>
@@ -129,10 +133,11 @@ agenda.html
 ```
 
 > Gerando, assim, as seguintes telas
-> Tela com o input esperando o usuário digitar o nome
 
-[!p4_img_1]
+![projeto_4_index](imagens/projeto_4_index.png)
 
-> Tela com saída no alert
+>Então o usuário digita um nome em resposta a mensagem do input
+![projeto_4_nome_digitado](imagens/projeto_4_nome_digitado.png)
 
-[!p4_img_2]
+> Tela com saída no alert mostrando o nome digitado e o que era esperado
+![projeto_4_botao_clicado](imagens/projeto_4_botao_clicado.png)
