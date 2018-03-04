@@ -20,6 +20,10 @@ Em casos de alta intensidade os problemas tornam-se de proporções alarmantes a
 
 ## Hardware, Software e Internet das Coisas no EstGeoMag:
 
+### Internet das coisas
+
+Internet das coisas, ou IoT(Internet of Things - termo em inglês), é a capacidade de objetivos físicos conectados em rede que podem coletar e transmitir dados, a arquitetura do EstGeoMag é aderente a este conceito.
+
 ### Hardware
 
 A arquitetura do hardware do EstGeoMag é dividida em duas unidades, a primeira é responsável por coletar os dados e isso é feito através de sensores, já a segunda tem função de processar os dados que foram coletados.
